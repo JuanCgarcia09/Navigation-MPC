@@ -1,0 +1,2 @@
+path_mpc
+-DCATKIN_DEVEL_PREFIX=/home/k3lso/Documentos/Tesis2023/devel -DCMAKE_INSTALL_PREFIX=/home/k3lso/Documentos/Tesis2023/install -G Unix Makefiles
